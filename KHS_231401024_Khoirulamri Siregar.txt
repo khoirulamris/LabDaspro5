@@ -1,0 +1,21 @@
+Kartu Hasil Studi
+=================
+                 
+Nama      : Khoirulamri Siregar
+NIM       : 231401024
+                 
+|=============================================|
+| No  |Matkul                           |Nilai|
+|=============================================|
+| 1 . |Matematika Dasar                 |A    |
+| 2 . |Pengantar Ilmu Komputer          |A    |
+| 3 . |Praktikum Dasar Pemrograman      |B    |
+| 4 . |Organisasi Arsitektur Komputer   |A    |
+| 5 . |Dasar Pemrograman                |C    |
+| 6 . |Logika Matematika                |A    |
+| 7 . |MKWK Bahasa Indonesia            |B    |
+| 8 . |MKWK Pendidikn Pancasila         |A    |
+|=============================================|
+                 
+Total SKS   : 19
+IP Semester : 3.53
